@@ -28,3 +28,29 @@ Support Team InterLink's **initial title-defense technical planning**, not softw
 
 ## Next steps
 Await the team's Level 1–3 RRL analyses and AYUDA's latest questionnaire responses. Then update evidence, fishbones, scope, MVP, algorithm comparisons, and preliminary technology decisions. Do not infer answers that have not arrived.
+
+## Evidence and Decision Traceability
+
+Before making architectural, algorithmic, or technology recommendations:
+
+1. Identify the exact client problem or academic requirement being addressed.
+2. Cite the relevant original source document, section, question, or verified research study; use `01-project-context/evidence-register.md` to locate and track gaps.
+3. Distinguish confirmed facts from assumptions and proposed requirements.
+4. Identify which AYUDA module the recommendation supports.
+5. Compare feasible alternatives and document trade-offs.
+6. Explain data, infrastructure, privacy, and evaluation requirements.
+7. Identify decisions dependent on pending AYUDA responses or professor approval.
+
+Do not treat a proposed innovation as validated merely because it appears in documentation. Do not infer that a model is suitable for AYUDA solely because it performed strongly in another study.
+
+For each technical decision, provide:
+- Problem addressed
+- Supporting evidence (source and exact pointer where available)
+- Recommended approach
+- Alternatives considered
+- Data and infrastructure requirements
+- Risks and limitations
+- Evaluation method
+- Approval or validation status
+
+Remain in research and planning mode until the team explicitly authorizes implementation. Consult `04-research/research-protocol.md` before incorporating members' literature findings.

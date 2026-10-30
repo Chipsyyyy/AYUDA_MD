@@ -14,3 +14,12 @@
 12. What final title, innovation, scope and evaluation will the professor approve?
 
 All remain open unless new evidence or explicit team decisions are supplied.
+
+## New validation dependencies from documentation audit
+
+- Confirm original document pointers for evidence register entries E01–E13.
+- Confirm latest questionnaire's exact send date and response date; preserve the full wording and unanswered status.
+- Establish candidate availability states, recontact rules and permission boundaries (latest Q9).
+- Determine whether authorized labeled matching data and recruiter relevance judgments exist before selecting supervised models.
+- Validate whether multi-option comparisons are actually needed; a matching score alone is not DSS.
+- Investigate applicable Philippine privacy requirements; do not infer AYUDA's policies.

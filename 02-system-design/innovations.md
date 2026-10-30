@@ -18,3 +18,17 @@ Technical support role: required troubleshooting skill **verified**; two years' 
 
 ## Innovation test
 A feature is not novel merely because it uses AI, OCR, NLP, ranking or a Kanban board. Benchmark established capabilities, show the AYUDA-specific decision problem, justify the method and define measurable improvement. Final innovation remains open pending client answers and literature review.
+
+## Matching versus decision support — essential distinction
+
+These components are related but **not identical**:
+
+| Component | Purpose | Example |
+|---|---|---|
+| Candidate-to-job matching | Assess alignment between verified candidate qualifications and a vacancy | Meets required experience and skills |
+| Ranking | Order eligible or potentially suitable alternatives | Candidate A shown ahead of Candidate B using stated criteria |
+| Explainability | Show evidence and uncertainty behind a recommendation | Experience verified; work setup unknown |
+| Decision support | Help compare alternatives and trade-offs to inform a human choice | Compare A and B by verified qualifications, gaps, availability and preferences |
+| Human oversight | Reserve screening, endorsement and hiring decisions for authorized people | Recruiter verifies and decides whom to endorse |
+
+**A score alone is not meaningful decision support.** Showing “Candidate A: 85% match” is ranking; showing why A and B differ, what is verified or missing, and what remains uncertain provides a stronger decision-support basis. Do not invent percentages without a defined and evaluated scoring method. AYUDA's need for these comparisons remains **pending validation**.

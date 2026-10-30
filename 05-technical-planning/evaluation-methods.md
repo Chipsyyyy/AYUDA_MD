@@ -11,3 +11,6 @@
 | System | Functional tests, usability, RBAC/security checks | Test only with authorized or synthetic data |
 
 No target performance values have been approved. Evaluation design depends on available data and client/professor review.
+
+## Task-based explanation evaluation
+In addition to subjective ratings, ask users to correctly identify (1) the verified factors behind a recommendation, (2) unmet mandatory criteria, (3) unverified/unknown information, and (4) the consequences of changing a stated preference. Measure comprehension and errors; do not claim a method improves decisions without a suitable comparison and human evaluation.

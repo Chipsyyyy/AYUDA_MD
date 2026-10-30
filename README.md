@@ -12,11 +12,12 @@
 | `01-project-context/` | Academic requirements, company profile, existing business workflow, confirmed interview evidence, evolution |
 | `02-system-design/` | Current system overview, six modules, proposed workflows, user roles, innovations, MVP, scope |
 | `03-consultations/` | Two professor consultations, client-validation status, preliminary fishbone analyses, open questions |
+| `04-research/` | Research intake methodology only; no completed study findings |
 | `05-technical-planning/` | Module-level technical needs, initial stack alternatives (not selections), architecture, evaluation, decision log |
 | `06-project-management/` | Status, pending decisions, next actions |
 | `CLAUDE.md` | Workspace instructions and evidence discipline |
 
-**Intentionally excluded:** `04-research/` and RRL study findings. The team is still completing Level 1–3 reviews. Do not manufacture study results. Add the research folder after members submit their findings.
+**Research status:** `04-research/` contains a **research protocol only**. No Level 1–3 study findings have been added; the team is still completing them. Do not manufacture results.
 
 ## Read this before making recommendations
 **Client-confirmed:** candidate rediscovery/reuse difficulties; spreadsheet/Gantt and fragmented tracking; manual encoding and follow-up challenges; interest in job matching and résumé assistance.  
@@ -31,3 +32,16 @@
 
 ## Handover limitation
 This repository is a structured synthesis of prior conversations and working documents, not a verbatim archive of client interviews. Reattach original AYUDA interviews, responses and professor notes for source-level verification.
+
+## Updates from external documentation audit
+
+This package now includes:
+- `01-project-context/evidence-register.md` — source and evidence traceability; exact original document pointers still require verification.
+- `03-consultations/latest-client-questionnaire.md` — all 15 follow-up questions, with an unanswered response log.
+- `02-system-design/innovations.md` — explicit distinction among matching, ranking, explainability, decision support and human oversight.
+- `03-consultations/preliminary-fishbone-analysis.md` — cause-to-solution traceability; visual fishbone assets retained separately.
+- `05-technical-planning/technology-requirements.md` — dataset feasibility, candidate availability/consent, explanation evaluation and Philippine privacy research.
+- `04-research/research-protocol.md` — **protocol only**, not completed RRL studies.
+- `CLAUDE.md` — evidence and decision traceability rules.
+
+The original business context, six modules, academic focus, exclusions and approval boundaries remain unchanged. Exact source pointers and questionnaire send/response dates must be confirmed from original documents.

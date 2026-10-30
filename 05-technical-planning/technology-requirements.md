@@ -21,3 +21,29 @@
 
 ## Evidence requirements
 Academic literature supports methods/algorithms. Official product/library documentation supports specific APIs, compatibility and versions. Team capability and available budget support feasibility. If a source does not specify a framework or dataset, record **not reported**.
+
+## Additional technical investigations required before stack selection
+
+### A. Data availability and model feasibility
+- Confirm whether AYUDA can supply enough **authorized**, de-identified candidate/job examples and **reliable relevance judgments** for training and evaluation.
+- Distinguish pretrained inference, fine-tuning, and training from scratch. Supervised sentence-pair models such as SPBERT may require substantial labeled examples to adapt effectively.
+- If data is limited, compare transparent rules, weighted scoring and TF-IDF baselines before promising trained deep models.
+- Record dataset size, label provenance, class imbalance, access restrictions, compute and annotation effort as **unknown until verified**.
+
+### B. Candidate availability, consent and rediscovery
+Do **not** conflate these states:
+
+| State | Meaning / design consideration |
+|---|---|
+| Available | Candidate currently confirms interest/availability |
+| Accepted another offer | May be unavailable for the present opportunity; future contact rules must be verified |
+| Availability unknown | Must be checked before treating candidate as available |
+| Does not wish to be contacted | Contact preferences/restrictions must be respected |
+
+Rules for transitions, expiry, consent and permissible recontact must come from AYUDA's answers and applicable law, not assumptions.
+
+### C. Explanation comprehension evaluation
+Besides clarity/usefulness/trust ratings, test whether users can correctly identify **why** a recommendation appeared, which mandatory criteria were not met, and which fields remain unverified. Prefer task-based comprehension checks alongside surveys.
+
+### D. Security and Philippine privacy obligations
+Investigate applicable **Philippine Data Privacy Act of 2012 (RA 10173)** and relevant National Privacy Commission guidance before implementation. Assess lawful basis/consent where appropriate, privacy notices, role-based access, minimization, retention, secure deletion, document access and auditability. These are research obligations, **not confirmed AYUDA policies**; obtain authorized organizational requirements.
