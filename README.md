@@ -53,3 +53,7 @@ The original business context, six modules, academic focus, exclusions and appro
 - [Evidence-labelled preliminary fishbones](03-consultations/preliminary-fishbone-analysis.md) — SVGs replace overconfident legacy PNGs.
 - [Research protocol](04-research/research-protocol.md) — methodology only; Level 1–3 findings are not populated.
 - [Technology feasibility requirements](05-technical-planning/technology-requirements.md) — data availability, candidate status, explainability evaluation and privacy.
+
+
+## Team RRL findings now included
+The complete submitted Level 1–3 research documents are in [`04-research/README.md`](04-research/README.md), with full searchable Markdown and original PDFs. Findings remain subject to source verification.

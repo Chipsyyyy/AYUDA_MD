@@ -72,3 +72,7 @@ For each technical decision report: **problem addressed; supporting evidence; pr
 Never assume that an innovation is validated merely because it appears in a proposal, or that a matching model will perform well at AYUDA because it performed well elsewhere. Remain in research/planning mode until implementation is explicitly authorized.
 
 The research methodology is in `04-research/research-protocol.md` (nine-column matrix, verification rules, and adopt/adapt/benchmark/exclude decisions). Do not invent Level 1–3 results.
+
+
+## Received Level 1–3 research findings
+Before technical planning, read `04-research/README.md`, `04-research/research-protocol.md`, and all three `04-research/level-*-rrl-findings.md` files. Consult the original PDFs for figures. The studies have been received but are not yet independently verified; do not silently resolve citation discrepancies or finalize technologies.

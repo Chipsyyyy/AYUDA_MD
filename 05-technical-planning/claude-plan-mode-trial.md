@@ -103,3 +103,7 @@ For each technical recommendation use this format:
 - End with the next **three research decisions** the developer should prioritize, and explicitly identify which depend on new client answers.
 
 **Start by stating what files you actually found and what evidence you can access. Then produce the plan.**
+
+
+## Research files available for this trial
+Use the completed team-submitted Level 1–3 RRL findings in `../04-research/level-1-rrl-findings.md`, `level-2-rrl-findings.md`, and `level-3-rrl-findings.md`. Original PDFs are under `../04-research/original-pdfs/`. Treat findings as provisional until independently verified.
