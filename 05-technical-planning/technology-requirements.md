@@ -47,3 +47,10 @@ Besides clarity/usefulness/trust ratings, test whether users can correctly ident
 
 ### D. Security and Philippine privacy obligations
 Investigate applicable **Philippine Data Privacy Act of 2012 (RA 10173)** and relevant National Privacy Commission guidance before implementation. Assess lawful basis/consent where appropriate, privacy notices, role-based access, minimization, retention, secure deletion, document access and auditability. These are research obligations, **not confirmed AYUDA policies**; obtain authorized organizational requirements.
+
+## Cross-cutting feasibility checks (not yet confirmed AYUDA policy)
+
+1. **Data availability:** Determine whether authorized candidate–job pairs and reliable recruiter relevance labels exist. Supervised models such as fine-tuned sentence-pair BERT may need substantial labeled examples; small datasets may favor transparent rules and simpler baselines. Do not assume training data availability.
+2. **Candidate availability and contact preference:** Distinguish `available`, `accepted another offer`, `unknown`, and `does not wish to be contacted`. These are *conceptual states*, not approved AYUDA business rules. Ask how transitions, consent and rediscovery eligibility work.
+3. **Explainability testing:** Test whether users can correctly identify why a match was suggested, which mandatory requirements are unmet and which information is unverified, in addition to clarity/usefulness ratings.
+4. **Privacy/security:** Investigate applicable Philippine Data Privacy Act obligations, appropriate lawful basis, access restrictions, retention and secure deletion. These are research requirements, not assertions about AYUDA's current policies.

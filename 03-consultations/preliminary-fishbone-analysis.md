@@ -28,8 +28,8 @@
 
 **Validation step:** Ask AYUDA whether there is a matching decision problem at all. If decisions are accurate but slow, revise the effect to decision time/efficiency rather than accuracy.
 
-## Existing diagram assets
-Earlier conversation produced illustrative fishbone images. These were not copied into this Markdown package because they are preliminary visual drafts; this file preserves their substantive reasoning and evidence caveats.
+## Visual evidence labels
+The revised diagrams explicitly identify reported conditions, contextual factors, hypotheses and unknowns. A reported condition is not automatically a proven root cause. Original illustrative PNGs are retained only under `assets/legacy-unverified/` for historical reference; do not use them for defense.
 
 ## Cause-to-solution traceability (provisional)
 
@@ -43,9 +43,11 @@ Earlier conversation produced illustrative fishbone images. These were not copie
 
 Keep the original fishbone category tables. Visual diagrams should be attached as **separate, labeled preliminary assets** and should not be treated as verified causal proof. No unsupported cause should be labeled confirmed.
 
-## Visual assets
+## Revised visual diagrams
 
-- [Preliminary fishbone image 1](assets/ayuda_ishikawa_fishbone_analysis.png)
-- [Preliminary fishbone image 2](assets/ayuda_fishbone_cause_analysis.png)
+- [Candidate rediscovery — preliminary, evidence-labelled SVG](assets/candidate-rediscovery-preliminary.svg)
+- [Candidate-to-job matching — preliminary, evidence-labelled SVG](assets/candidate-job-matching-preliminary.svg)
 
-**Caution:** These previously generated visuals are exploratory and may contain unverified labels. The evidence/status tables and later client responses take precedence; do not use the visuals as proof of root causes.
+The **matching diagram** deliberately avoids claiming that AYUDA makes inaccurate matching decisions. Its provisional effect is: **Potential difficulties identifying, comparing and recommending suitable candidates**.
+
+Both diagrams preserve six categories (Manpower, Methods, Technology, Data/Materials, Measurement, Environment). Revalidate all causal claims when AYUDA replies. SVG assets are editable source files and can be exported to PNG for slides.

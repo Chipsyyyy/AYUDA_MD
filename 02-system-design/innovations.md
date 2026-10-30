@@ -32,3 +32,15 @@ These components are related but **not identical**:
 | Human oversight | Reserve screening, endorsement and hiring decisions for authorized people | Recruiter verifies and decides whom to endorse |
 
 **A score alone is not meaningful decision support.** Showing “Candidate A: 85% match” is ranking; showing why A and B differ, what is verified or missing, and what remains uncertain provides a stronger decision-support basis. Do not invent percentages without a defined and evaluated scoring method. AYUDA's need for these comparisons remains **pending validation**.
+
+## Distinguishing matching from meaningful decision support
+
+| Component | Role |
+|---|---|
+| Matching | Estimate alignment between candidate qualifications and a vacancy. |
+| Ranking | Order eligible alternatives according to defined criteria. |
+| Explainability | Show evidence behind an assessment, including unmet and unverified criteria. |
+| Decision support | Enable comparison of alternatives, trade-offs, uncertainty and actionable next steps. |
+| Human oversight | Keep screening, endorsement and hiring decisions with authorized people. |
+
+**A percentage match alone is not evidence of a DSS.** Example: displaying Candidate A at 85% is ranking; comparing Candidates A and B by verified skills, missing requirements, consent/availability and job constraints is a more useful decision-support workflow. These features remain proposed and need client validation.

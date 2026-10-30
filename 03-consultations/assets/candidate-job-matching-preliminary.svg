@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect width="1200" height="650" fill="#fff"/>
+<text x="50" y="53" font-family="Arial" font-size="26" font-weight="bold" fill="#19344e">Preliminary Ishikawa — Candidate-to-Job Matching</text>
+<text x="50" y="85" font-family="Arial" font-size="17" fill="#a04619">Root-cause hypotheses — pending AYUDA validation. Labels indicate evidence status.</text>
+<line x1="120" y1="355" x2="870" y2="355" stroke="#28475f" stroke-width="5"/>
+<path d="M 855 342 L 885 355 L 855 368" fill="none" stroke="#28475f" stroke-width="4"/>
+<rect x="895" y="280" width="260" height="150" rx="12" fill="#eaf2f5" stroke="#28475f" stroke-width="2"/>
+<text x="910" y="310" font-family="Arial" font-size="17" font-weight="bold" fill="#19344e">Potential difficulties</text>
+<text x="910" y="335" font-family="Arial" font-size="17" font-weight="bold" fill="#19344e">identifying, comparing and</text>
+<text x="910" y="360" font-family="Arial" font-size="17" font-weight="bold" fill="#19344e">recommending suitable</text>
+<text x="910" y="385" font-family="Arial" font-size="17" font-weight="bold" fill="#19344e">candidates</text>
+<line x1="270" y1="355" x2="205" y2="215" stroke="#567486" stroke-width="3"/>
+<rect x="105" y="142" width="225" height="91" rx="9" fill="#f5f8fa" stroke="#a6b9c4"/>
+<text x="117" y="164" font-family="Arial" font-size="14" font-weight="bold" fill="#145d73">MANPOWER</text>
+<text x="117" y="186" font-family="Arial" font-size="12.5" fill="#243d4b">Time pressure or varied</text>
+<text x="117" y="202" font-family="Arial" font-size="12.5" fill="#243d4b">judgments [HYPOTHESIS]</text>
+<line x1="505" y1="355" x2="440" y2="215" stroke="#567486" stroke-width="3"/>
+<rect x="340" y="142" width="225" height="91" rx="9" fill="#f5f8fa" stroke="#a6b9c4"/>
+<text x="352" y="164" font-family="Arial" font-size="14" font-weight="bold" fill="#145d73">METHODS</text>
+<text x="352" y="186" font-family="Arial" font-size="12.5" fill="#243d4b">Matching criteria may vary</text>
+<text x="352" y="202" font-family="Arial" font-size="12.5" fill="#243d4b">[HYPOTHESIS]</text>
+<line x1="740" y1="355" x2="675" y2="215" stroke="#567486" stroke-width="3"/>
+<rect x="575" y="142" width="225" height="91" rx="9" fill="#f5f8fa" stroke="#a6b9c4"/>
+<text x="587" y="164" font-family="Arial" font-size="14" font-weight="bold" fill="#145d73">TECHNOLOGY</text>
+<text x="587" y="186" font-family="Arial" font-size="12.5" fill="#243d4b">Decision comparison support</text>
+<text x="587" y="202" font-family="Arial" font-size="12.5" fill="#243d4b">may be limited [HYPOTHESIS]</text>
+<line x1="270" y1="355" x2="205" y2="442" stroke="#567486" stroke-width="3"/>
+<rect x="105" y="427" width="225" height="91" rx="9" fill="#f5f8fa" stroke="#a6b9c4"/>
+<text x="117" y="449" font-family="Arial" font-size="14" font-weight="bold" fill="#145d73">DATA</text>
+<text x="117" y="471" font-family="Arial" font-size="12.5" fill="#243d4b">Record quality concerns</text>
+<text x="117" y="487" font-family="Arial" font-size="12.5" fill="#243d4b">[PARTIAL EVIDENCE]</text>
+<line x1="505" y1="355" x2="440" y2="442" stroke="#567486" stroke-width="3"/>
+<rect x="340" y="427" width="225" height="91" rx="9" fill="#f5f8fa" stroke="#a6b9c4"/>
+<text x="352" y="449" font-family="Arial" font-size="14" font-weight="bold" fill="#145d73">MEASUREMENT</text>
+<text x="352" y="471" font-family="Arial" font-size="12.5" fill="#243d4b">Matching baseline not yet</text>
+<text x="352" y="487" font-family="Arial" font-size="12.5" fill="#243d4b">obtained [UNKNOWN]</text>
+<line x1="740" y1="355" x2="675" y2="442" stroke="#567486" stroke-width="3"/>
+<rect x="575" y="427" width="225" height="91" rx="9" fill="#f5f8fa" stroke="#a6b9c4"/>
+<text x="587" y="449" font-family="Arial" font-size="14" font-weight="bold" fill="#145d73">ENVIRONMENT</text>
+<text x="587" y="471" font-family="Arial" font-size="12.5" fill="#243d4b">Changing requirements</text>
+<text x="587" y="487" font-family="Arial" font-size="12.5" fill="#243d4b">[CONTEXT]</text>
+<text x="50" y="613" font-family="Arial" font-size="14" fill="#56646b">Reported = client described condition; Context = known background; Hypothesis / Unknown = not verified as a cause.</text>
+</svg>

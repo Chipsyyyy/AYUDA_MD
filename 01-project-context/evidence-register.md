@@ -24,3 +24,9 @@ This register maps major statements to their **reported source type**, evidence 
 - Preserve differences among client-reported fact, client estimate, professor suggestion, team design and unverified assumption.
 - When new answers arrive, add dated evidence IDs rather than overwriting earlier statements without an audit trail.
 - Flag contradictions and obtain clarification before treating them as resolved.
+
+## Source-pointer verification queue
+
+Original interviews, completed client responses and professor consultation documents were **not included as source files in this handover ZIP**. Therefore exact question/page pointers remain **unverified**; do not replace them with guessed references. When original documents are attached, record original filename, date, question/section/page, short supporting quotation or paraphrase, reviewer and verification date. Prioritize E01–E09 and E13 for title-defense traceability.
+
+The client follow-up questionnaire is a **question source, not an answer source**. It cannot establish AYUDA's availability policy or confirm a three-sided DSS.

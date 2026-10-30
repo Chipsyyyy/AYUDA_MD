@@ -54,3 +54,21 @@ For each technical decision, provide:
 - Approval or validation status
 
 Remain in research and planning mode until the team explicitly authorizes implementation. Consult `04-research/research-protocol.md` before incorporating members' literature findings.
+
+## Evidence and Decision Traceability
+
+Before any architectural, algorithmic or technology recommendation:
+
+1. Identify the exact client problem or academic requirement addressed.
+2. Cite the original document and page/question/section when available; otherwise state `source pointer unverified`.
+3. Separate client-confirmed facts, professor recommendations, research findings, team proposals and assumptions.
+4. Identify the AYUDA module supported.
+5. Compare feasible alternatives and trade-offs.
+6. Explain data, infrastructure, integration, privacy and evaluation requirements.
+7. Identify dependencies on pending client answers or professor approval.
+
+For each technical decision report: **problem addressed; supporting evidence; proposed approach; alternatives; data/infrastructure; risks/limitations; evaluation; approval/validation status.**
+
+Never assume that an innovation is validated merely because it appears in a proposal, or that a matching model will perform well at AYUDA because it performed well elsewhere. Remain in research/planning mode until implementation is explicitly authorized.
+
+The research methodology is in `04-research/research-protocol.md` (nine-column matrix, verification rules, and adopt/adapt/benchmark/exclude decisions). Do not invent Level 1–3 results.

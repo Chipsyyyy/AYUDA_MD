@@ -45,3 +45,11 @@ This package now includes:
 - `CLAUDE.md` — evidence and decision traceability rules.
 
 The original business context, six modules, academic focus, exclusions and approval boundaries remain unchanged. Exact source pointers and questionnaire send/response dates must be confirmed from original documents.
+
+## Audit additions (30 October 2026)
+
+- [Evidence register](01-project-context/evidence-register.md) — provisional source traceability; original pointers pending verification.
+- [Full 15-question client questionnaire](03-consultations/latest-client-questionnaire.md) — questions are not answers.
+- [Evidence-labelled preliminary fishbones](03-consultations/preliminary-fishbone-analysis.md) — SVGs replace overconfident legacy PNGs.
+- [Research protocol](04-research/research-protocol.md) — methodology only; Level 1–3 findings are not populated.
+- [Technology feasibility requirements](05-technical-planning/technology-requirements.md) — data availability, candidate status, explainability evaluation and privacy.
